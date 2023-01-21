@@ -2,7 +2,7 @@
 Using text analysis to understand positive/negative sentiment in 2023 investment outlooks by major banks
 
 ## Introduction
-Each year, major investment banks and other market progosticators publish in-depth analyses of their views for the upcoming year. Often they share how they think the markets they cover will perform. While accountability for these predictions is rarely emphasized, I thought analyzing their content in aggregate could be a helpful exercise. 
+Each year, major investment banks and other market prognosticators publish in-depth analyses of their views for the upcoming year. Often they share how they think the markets they cover will perform. While accountability for these predictions is rarely emphasized, I thought analyzing their content in aggregate could be a helpful exercise. 
 
 ### Methodology
 To conduct this analysis, I used R and specifically the Tidyverse, Tidytext, PDFtools, and Lexicon packages. 
